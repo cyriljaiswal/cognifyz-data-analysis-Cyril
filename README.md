@@ -38,7 +38,7 @@ cognifyz-data-analysis-Cyril/
 │   ├── level1.py            ← Level 1 analysis & charts
 │   ├── level2.py            ← Level 2 analysis & charts
 │   └── level3.py            ← Level 3 analysis & charts
-├── screenshots/
+├── solutions/
 │   ├── L1_Task1_Cuisines.png
 │   ├── L1_Task2_City.png
 │   ├── L1_Task3_Price.png
@@ -110,30 +110,30 @@ cognifyz-data-analysis-Cyril/
 
 ---
 
-## 📸 Screenshots
+## 📸 Solutions
 
 ### Level 1
 | Top Cuisines | City Analysis |
 |---|---|
-| ![Cuisines](screenshots/L1_Task1_Cuisines.png) | ![City](screenshots/L1_Task2_City.png) |
+| ![Cuisines](solutions/L1_Task1_Cuisines.png) | ![City](solutions/L1_Task2_City.png) |
 
 | Price Range | Online Delivery |
 |---|---|
-| ![Price](screenshots/L1_Task3_Price.png) | ![Delivery](screenshots/L1_Task4_Delivery.png) |
+| ![Price](solutions/L1_Task3_Price.png) | ![Delivery](solutions/L1_Task4_Delivery.png) |
 
 ### Level 2
 | Rating Distribution | Cuisine Combinations |
 |---|---|
-| ![Ratings](screenshots/L2_Task1_Ratings.png) | ![Combos](screenshots/L2_Task2_Combos.png) |
+| ![Ratings](solutions/L2_Task1_Ratings.png) | ![Combos](solutions/L2_Task2_Combos.png) |
 
 | Geographic Map | Restaurant Chains |
 |---|---|
-| ![Map](screenshots/L2_Task3_Map.png) | ![Chains](screenshots/L2_Task4_Chains.png) |
+| ![Map](solutions/L2_Task3_Map.png) | ![Chains](solutions/L2_Task4_Chains.png) |
 
 ### Level 3
 | Votes Analysis | Price vs Services |
 |---|---|
-| ![Votes](screenshots/L3_Task1_Votes.png) | ![Services](screenshots/L3_Task2_PriceServices.png) |
+| ![Votes](solutions/L3_Task1_Votes.png) | ![Services](solutions/L3_Task2_PriceServices.png) |
 
 ---
 
